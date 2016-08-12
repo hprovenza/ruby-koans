@@ -1,10 +1,10 @@
 #!/usr/bin/env ruby
 # -*- ruby -*-
 
-begin
-  require 'win32console'
-rescue LoadError
-end
+# begin
+#  require 'win32console'
+# rescue LoadError
+# end
 
 # --------------------------------------------------------------------
 # Support code for the Ruby Koans.
