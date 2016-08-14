@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="570b432b-2b16-469d-93a7-5bd56f10886f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/koans.iml" afterPath="$PROJECT_DIR$/.idea/koans.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.path_progress" afterPath="$PROJECT_DIR$/.path_progress" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_classes.rb" afterPath="$PROJECT_DIR$/about_classes.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_scoring_project.rb" afterPath="$PROJECT_DIR$/about_scoring_project.rb" />
     </list>
     <ignored path="koans.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,7 +23,7 @@
     <SUITE FILE_PATH="coverage/koans@triangle.coverage" NAME="triangle Coverage Results" MODIFIED="1470886640163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="koans" />
     <SUITE FILE_PATH="coverage/koans@about_regular_expressions.coverage" NAME="about_regular_expressions Coverage Results" MODIFIED="1470781760890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="koans" />
     <SUITE FILE_PATH="coverage/koans@about_control_statements.coverage" NAME="about_control_statements Coverage Results" MODIFIED="1470885053001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="koans" />
-    <SUITE FILE_PATH="coverage/koans@path_to_enlightenment.coverage" NAME="path_to_enlightenment Coverage Results" MODIFIED="1471132508920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="koans" />
+    <SUITE FILE_PATH="coverage/koans@path_to_enlightenment.coverage" NAME="path_to_enlightenment Coverage Results" MODIFIED="1471132769008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="koans" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -50,8 +47,8 @@
       <file leaf-file-name="about_classes.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about_classes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+            <state relative-caret-position="255">
+              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -423,7 +420,7 @@
       <workItem from="1470779089473" duration="3305000" />
       <workItem from="1470791228445" duration="4917000" />
       <workItem from="1470886317589" duration="6804000" />
-      <workItem from="1471089376978" duration="3478000" />
+      <workItem from="1471089376978" duration="3750000" />
     </task>
     <servers />
   </component>
@@ -436,7 +433,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26600000" />
+    <option name="totallyTimeSpent" value="26872000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -876,8 +873,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about_classes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        <state relative-caret-position="255">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
           <folding />
         </state>
       </provider>
